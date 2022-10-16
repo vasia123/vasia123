@@ -30,4 +30,7 @@ I'm a fullstack developer who love web and new technologies!
     - AI
 - VR games
     - Beat Saber ❤️
-
+- Watch Anime
+    - https://myanimelist.net/animelist/vasis
+- Play Chess
+    - https://www.chess.com/member/avanturist888
