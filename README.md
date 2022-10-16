@@ -1,14 +1,14 @@
 # Hello World! 👋
 
-I'm a fullstack developer who love web and new technologies!
-
+I'm a fullstack developer who love web and new technologies! 
 
 ## My skills 📜
 
 - HTML, CSS
     - IE6+
 - JS+TS
-    - Vue.js 3 
+    - JQuery
+    - Vue.js 3
     - Nuxt 3 
     - Vite
 - Python
@@ -19,6 +19,7 @@ I'm a fullstack developer who love web and new technologies!
 - Sql
     - PostgreSQL
     - MySQL
+    - Redis
     - MongoDB
 - Web3
     - WAX/EOS
@@ -26,6 +27,7 @@ I'm a fullstack developer who love web and new technologies!
 
 ## Hobby ✨
 - Learning something new
+    - Godot
     - Rust
     - AI
 - VR games
@@ -34,3 +36,4 @@ I'm a fullstack developer who love web and new technologies!
     - https://myanimelist.net/animelist/vasis
 - Play Chess
     - https://www.chess.com/member/avanturist888
+- 3D Printing
